@@ -32,7 +32,8 @@ Windows | [![Build status](https://ci.appveyor.com/api/projects/status/nfkdxmis9
  - Executez-le avec votre OS !
  
 ## Comment participer au projet
-Rejoignez le [discord Cpcdos](https://discord.com/invite/3Qm8xDp)
+Rejoignez le [Discord CPCDOS](https://discord.com/invite/3Qm8xDp)
+Rejoignez le [Reddit CPCDOS](https://www.reddit.com/r/Cpcdos/)
 
 ## Liens officiel
 - [Site web - cpcdos.net](https://cpcdos.net)
